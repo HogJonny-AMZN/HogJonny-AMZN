@@ -11,8 +11,6 @@
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I wrote a game-like PBR material for the Maya Viewport: [GitHub - hogjonny/Maya-PBR-BRDF-VP2: A WIP Implementation of a Physically Plausible (PBR/PBS) HLSL Shader for the Maya Viewport 2.0](https://github.com/hogjonny/Maya-PBR-BRDF-VP2)
 
-
-
 In Oct 2016 I accepted a position with Amazon, Lumberyard - Austin, an org within AWS.  
 
 What was Lumberyard, has now become the Open 3D Engine (aka O3DE) https://www.o3de.org/  
@@ -28,3 +26,18 @@ I've been working in a game dev related field now for nearly 30 years. My experi
 I believe the future is platform agnostic gaming experiences and cross-platform play that focus more on the consumer and their identity, then the identity of the device or service we play through. A web of game experiences spread across all the devices in our life. We may take gaming on the go with our tablets and phones, but come home to an extended HD experience in our living room, or cutting edge PC.  
 
 I am a tinkerer at heart, making games fulfills all of my creative desires. During my career, I have directly contributed to the design, art, and development of over 16 titles that have shipped (plus additional platform skews), several canceled or unannounced projects and many demos and showcases.
+
+## &#x1f4c8; GitHub Stats
+
+<br>
+
+<a href="https://github.com/HogJonny-AMZN">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HogJonny-AMZN&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/HogJonny-AMZN">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=HogJonny-AMZN&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="HogJonny-AMZN's GitHub Stats" />
+</a>
+
+<br>
+<br>
