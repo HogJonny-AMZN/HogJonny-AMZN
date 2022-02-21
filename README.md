@@ -28,16 +28,3 @@ I am a tinkerer at heart, making games fulfills all of my creative desires. Duri
 ## &#x1f4c8; GitHub Stats
 
 [![HogJonny-AMZN's GitHub stats](https://github-readme-stats.vercel.app/api?username=HogJonny-AMZN)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-
-<a href="https://github.com/HogJonny-AMZN">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HogJonny-AMZN&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/HogJonny-AMZN">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=HogJonny-AMZN&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="HogJonny-AMZN's GitHub Stats" />
-</a>
-
-<br>
-<br>
