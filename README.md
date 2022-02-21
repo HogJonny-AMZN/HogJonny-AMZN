@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-
-
 - 🔭 I’m currently working on Open 3D Engine (o3de.org)
 - 🌱 I’m currently learning how to provide better DCC tool configuration and bootstrapping (Python)
 - 👯 I’m looking to collaborate on python APIs and frameworks for creators
@@ -28,6 +26,8 @@ I believe the future is platform agnostic gaming experiences and cross-platform 
 I am a tinkerer at heart, making games fulfills all of my creative desires. During my career, I have directly contributed to the design, art, and development of over 16 titles that have shipped (plus additional platform skews), several canceled or unannounced projects and many demos and showcases.
 
 ## &#x1f4c8; GitHub Stats
+
+[![HogJonny-AMZN's GitHub stats](https://github-readme-stats.vercel.app/api?username=HogJonny-AMZN)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
