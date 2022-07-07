@@ -9,6 +9,8 @@
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I wrote a game-like PBR material for the Maya Viewport: [GitHub - hogjonny/Maya-PBR-BRDF-VP2: A WIP Implementation of a Physically Plausible (PBR/PBS) HLSL Shader for the Maya Viewport 2.0](https://github.com/hogjonny/Maya-PBR-BRDF-VP2)
 
+Notice: This is my work team account.  I may have oppinions and thoughts that are my own and are not to be considered to be the voice or oppinions of Amwaon/AWS.
+
 In Oct 2016 I accepted a position with Amazon, Lumberyard - Austin, an org within AWS.  
 
 What was Lumberyard, has now become the Open 3D Engine (aka O3DE) https://www.o3de.org/  
