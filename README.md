@@ -8,6 +8,8 @@
 - 📫 How to reach me: Discord HogJonnyAMZN#4953
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I wrote a game-like PBR material for the Maya Viewport: [GitHub - hogjonny/Maya-PBR-BRDF-VP2: A WIP Implementation of a Physically Plausible (PBR/PBS) HLSL Shader for the Maya Viewport 2.0](https://github.com/hogjonny/Maya-PBR-BRDF-VP2)
+- Blog at https://www.co3dex.com
+- Buy me a coffee: https://www.buymeacoffee.com/hogjonnyamzn
 
 Notice: This is my work team account.  I may have oppinions and thoughts that are my own and are not to be considered to be the voice or oppinions of Amazon/AWS.
 
