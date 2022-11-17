@@ -8,8 +8,7 @@
 - 📫 How to reach me: Discord HogJonnyAMZN#4953
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I wrote a game-like PBR material for the Maya Viewport: [GitHub - hogjonny/Maya-PBR-BRDF-VP2: A WIP Implementation of a Physically Plausible (PBR/PBS) HLSL Shader for the Maya Viewport 2.0](https://github.com/hogjonny/Maya-PBR-BRDF-VP2)
-- Blog at https://www.co3dex.com
-- Buy me a coffee: https://www.buymeacoffee.com/hogjonnyamzn
+- Technical Art Blog at https://www.co3dex.com
 
 Notice: This is my work team account.  I may have oppinions and thoughts that are my own and are not to be considered to be the voice or oppinions of Amazon/AWS.
 
@@ -36,4 +35,4 @@ I am a tinkerer at heart, making games fulfills all of my creative desires. Duri
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HogJonny-AMZN&count_private=true&langs_count=100&theme=radical)]
 
 ----
-The postings on this site are my own and do not necessarily represent the postings, strategies, or opinions of my employer AWS, or the Open 3D Foundation (or it's parent the Linux Foundation.)
+The postings on this site are my own and do not necessarily represent the postings, strategies, or opinions of my employer AWS, or the Open 3D Foundation (or it's parent the Linux Foundation.) - Buy me a coffee: https://www.buymeacoffee.com/hogjonnyamzn
