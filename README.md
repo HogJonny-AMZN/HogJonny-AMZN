@@ -32,7 +32,7 @@ I am a tinkerer at heart, making games fulfills all of my creative desires. Duri
 
 [![HogJonny-AMZN's GitHub stats](https://github-readme-stats.vercel.app/api?username=HogJonny-AMZN&count_private=true&show_icons=true&theme=radical)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HogJonny-AMZN&count_private=true&langs_count=100&theme=radical)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HogJonny-AMZN&count_private=true&langs_count=1000&theme=radical)]
 
 ----
 The postings on this site are my own and do not necessarily represent the postings, strategies, or opinions of my employer AWS, or the Open 3D Foundation (or it's parent the Linux Foundation.) - Buy me a coffee: https://www.buymeacoffee.com/hogjonnyamzn
