@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Open 3D Engine (o3de.org)
-- 🌱 I’m currently learning how to provide better DCC tool configuration and bootstrapping (Python)
-- 👯 I’m looking to collaborate on python APIs and frameworks for creators
-- 🤔 I’m looking for help with testing the DCC Scripting Interface Gem with Linux/OSX
+- 🔭 I’m currently working at Bluepoint Games a Sony (SIE) game development studio
+- 🌱 I’m currently learning how to improve the stability of developed tools, by adding uint and basic automated testing
+- 👯 I’m looking to collaborate on python APIs and frameworks for creators like Technical Artists
+- 🤔 I’m looking for help with building useful
 - 💬 Ask me about my 30 years of 3D entertainment and video game developer experience
 - 📫 How to reach me: Discord HogJonnyAMZN#4953
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I wrote a game-like PBR material for the Maya Viewport: [GitHub - hogjonny/Maya-PBR-BRDF-VP2: A WIP Implementation of a Physically Plausible (PBR/PBS) HLSL Shader for the Maya Viewport 2.0](https://github.com/hogjonny/Maya-PBR-BRDF-VP2)
 - Technical Art Blog at https://www.co3dex.com
 
-Notice: This is my work team account.  I may have oppinions and thoughts that are my own and are not to be considered to be the voice or oppinions of Amazon/AWS.
+Notice: This is my professional Github account, generally associated with employers, teams and development projects. Ask me about 3D Content tools and workflows, Realtime 3D Rendering. No matter who I work for, my opinions are my own. I have many oppinions and thoughts and they are not to be considered to be the oppinions of Bluepoint Games or Sony (SIE).
+
+The first commerical game release I worked on, was Secrets of the Luxor by Mojave, which hit the market April 4th 1996.  It wasn't real-time 3D because at the time that was barely a thing in gaming, however that quickly because my focus by the time I worked on my second commercial game release at Parsoft (more on that later.)  Prior to that I was working at Start, the makers of Strata Stuido Pro and 3D content creation suite of software popularized by also being the 3D DCC tool that Myst was authored in.  I was an intern making 3D clip art, and then moved onto a 3D point and click mini-game set in an egyptian tomb that we we worked on to be displayed in Epoch Center (and other interactive project.)  So that's how it all got started, making games in a small historic home in St. George Utah we had outfitted as a small office.
 
 In Oct 2016 I accepted a position with Amazon, Lumberyard - Austin, an org within AWS.  
 
