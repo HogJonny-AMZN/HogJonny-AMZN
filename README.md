@@ -11,6 +11,8 @@ Ask me about 3D Content tools and workflows, Realtime 3D Rendering. No matter wh
 
 Notice: This is my professional Github account, generally associated with employers, teams and development projects.
 
+The reason my profile name is HogJonny-AMZN, is because I was working at AWS on Open 3D Engine at the time I made it.  I have other accounts, however over the last 5 years most of the development work I have done was done in this account.  I don't want to risk breaking any commit history by updating it (I tried before and DID break some.)  So now it just means "HogJonny the AMaZiNg".  I've contemplated moving personal projects to my prior personal github account, it's just easier to maintain a single identity.
+
 ---
 
 ## About Me
